@@ -23,4 +23,4 @@ https://github.com/KamalFarran/Crowdfunding_ETL/tree/main/Resources<br>
 https://github.com/KamalFarran/Crowdfunding_ETL/blob/main/ETL_Mini_Project_Starter_Code_COzoemena_MKashif_YSharma_KFarran.ipynb
 
 <h3>Schema used (for reference):</h3>
-https://github.com/KamalFarran/Crowdfunding_ETL/blob/main/QuickDBD-export.sql
+https://github.com/KamalFarran/Crowdfunding_ETL/blob/main/crowdfunding_db_schema.sql
